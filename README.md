@@ -28,8 +28,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/mqpdharshan17/mqpdharshan17/output/snake.svg" alt="Snake animation" />
-
-###
